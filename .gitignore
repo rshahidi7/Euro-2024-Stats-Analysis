@@ -1,0 +1,13 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tableau packaged files (optional – only if they’re huge and you don’t want them tracked)
+*.twb
+*.twbx
+
+# Data (don’t upload raw CSVs if they’re big or under license)
+data/*
+!data/.gitignore
