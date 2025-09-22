@@ -35,7 +35,6 @@ This project was built in Tableau to uncover trends, highlight key insights, and
 ---
 
 ## 📸 Dashboard Preview
-*(Add a screenshot image from Tableau for recruiters who don’t click links)*  
 ![Dashboard Screenshot](docs/Overall_Dashboard.png)
 ![Dashboard Screenshot](docs/U21_Dashboard.png)
 
