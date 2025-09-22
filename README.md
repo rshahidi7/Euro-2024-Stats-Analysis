@@ -1,7 +1,13 @@
 # 📊 [Euro 2024 Statistical Analysis] – Interactive Tableau Dashboard
 
 An interactive data visualization project exploring **[The 2024 Euros]**.  
-This project was built in Tableau to uncover trends, highlight key insights, and present findings in a clear, interactive format.
+This project explores player performance in the UEFA Euro 2024 tournament through interactive Tableau dashboards. The analysis compares 1) all players and 2) U21 prospects by examining their overall production (Goals + Assists) and playmaking influence.
+
+To provide context, each dashboard is paired with a map visualization:
+	•	All Players Dashboard: Shows each team’s total goals and which players contributed.
+	•	U21 Prospects Dashboard: Highlights the number of young players on each team and the minutes they played.
+
+Together, these dashboards allow for quick comparisons of top performers, emerging young talents, and team-level reliance on experience vs. youth.
 
 ---
 
