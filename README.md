@@ -6,7 +6,7 @@ This project was built in Tableau to uncover trends, highlight key insights, and
 ---
 
 ## 🌐 Dashboard Access
-🔗 [View on Tableau Public]([https://public.tableau.com/views/Euro2024PlayerData/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
+🔗 [View on Tableau Public](https://public.tableau.com/views/Euro2024PlayerData/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
